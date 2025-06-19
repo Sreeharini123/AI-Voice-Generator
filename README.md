@@ -11,7 +11,7 @@ A lightweight assistive tool that helps mute or non-verbal individuals speak out
 ## 💻 Tech Stack
 - Python
 - Streamlit
-- pyttsx3 (TTS engine)
+- gTTS
 
 ## 🚀 How to Run
 1. Clone the repository
@@ -19,9 +19,6 @@ A lightweight assistive tool that helps mute or non-verbal individuals speak out
    `pip install -r requirements.txt`
 3. Run the app  
    `streamlit run app.py`
-
-## 📸 Screenshot
-*(Insert a screenshot of your Streamlit UI here)*
 
 ## 🤍 Why It Matters
 This project aims to support people who have lost their ability to speak (e.g., throat cancer survivors) by offering them an emotional way to communicate.
