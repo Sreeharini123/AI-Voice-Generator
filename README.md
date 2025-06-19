@@ -21,7 +21,7 @@ How to Run?
    `streamlit run app.py`
 
 Why It Matters?
-This project aims to support people who have lost their ability to speak (e.g., throat cancer survivors) by offering them an emotional way to communicate.
+While full emotional voice synthesis is not supported in this version, the app includes basic emotion simulation via speech speed and punctuation, with plans for advanced TTS integration in future versions.
 
 Demo:
 https://ai-voice-generator.streamlit.app/
