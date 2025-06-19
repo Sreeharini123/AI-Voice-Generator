@@ -1,4 +1,4 @@
-                                                                 AI Voice Generator for Mute Individuals ❤️
+AI Voice Generator for Mute Individuals ❤️
 
 A lightweight assistive tool that helps mute or non-verbal individuals speak out loud using typed text and selected emotions (Happy, Neutral, Sad). Built with Python and Streamlit.
 
