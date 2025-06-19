@@ -3,10 +3,12 @@ AI Voice Generator for Mute Individuals ❤️
 A lightweight assistive tool that helps mute or non-verbal individuals speak out loud using typed text and selected emotions (Happy, Neutral, Sad). Built with Python and Streamlit.
 
 Features:
-- Convert text into speech instantly
-- Emotion-based voice modulation (rate/speed)
-- Easy-to-use web interface
-- Runs locally in under 1 minute
+- Converts typed text into speech in real-time using Google Text-to-Speech (gTTS)
+- Designed for mute or non-verbal individuals to communicate with ease
+- Emotion selection interface (Happy, Neutral, Sad) with speech speed variation for basic tone simulation
+- Built using Streamlit for a fast, interactive web interface
+- Hosted on Streamlit Cloud with secure HTTPS access
+- Lightweight and runs without any heavy system dependencies
 
 Tech Stack:
 - Python
